@@ -1,6 +1,6 @@
 Hello Git!!!
 
-New line.
+New line...
 
 Else line.
 
